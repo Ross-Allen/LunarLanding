@@ -4,7 +4,7 @@ Lunar Landing is a mini-program that is similar to the old fashioned [lunar land
 
 ## IMPORTANT
 
-This version of Lunar Landing includes some starter-code provided by Utah State University computer science department to which I give credit. Major functionality code is my own work. 
+This version of Lunar Landing includes some starter-code provided by Utah State University's computer science department to which I give credit. Major functionality code is my own work. 
 
 ## Running Lunar Landing
 
@@ -22,4 +22,4 @@ Run main.cpp using LanderSim.cpp, LunarLander.cpp, LunarLander.hpp with prefered
 
 ## Acknowledgments
 
-Again, some starter-code was provided by Utah State Universities CS department for the purpose of this assignment. 
+Again, some starter-code was provided by Utah State University's CS department for the purpose of this assignment. 
